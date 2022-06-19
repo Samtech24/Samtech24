@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samtech24
 - 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning PHP fullstack web development
+- 🌱 I’m currently learning Python fullstack web development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me - samueloisemaye24@gmail.com 
 
